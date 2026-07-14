@@ -1,0 +1,18 @@
+FILE ORGANIZER REPORT
+==============================
+
+Timestamp: 2026-07-14 10:33:36.798028
+
+Total Files: 4
+
+Files by Category:
+Images: 1
+Documents: 1
+PDFs: 1
+Others: 1
+
+Moved Files:
+book.pdf --> PDFs
+notes.txt --> Documents
+photo.jpg --> Images
+song.mp3 --> Others
